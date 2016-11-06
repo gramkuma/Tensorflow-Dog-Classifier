@@ -1,0 +1,5 @@
+corgi
+rottweiler
+dalmatian
+labrador
+husky
